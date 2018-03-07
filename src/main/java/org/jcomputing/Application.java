@@ -1,4 +1,4 @@
-package org.example;
+package org.jcomputing;
 
 import com.amazonaws.regions.Regions;
 import com.amazonaws.services.s3.AmazonS3;
